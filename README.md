@@ -25,3 +25,5 @@ OpenNE: https://github.com/thunlp/OpenNE
 * Dunn Validity Index
 * Davies Bouldin Score
 * Calinski Harabaz Score
+
+## The commands for training the embedding vectors of vehicles using different NRL methods are listed in cmd_command.txt
