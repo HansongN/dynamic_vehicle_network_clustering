@@ -1,5 +1,6 @@
 # dynamic_vehicle_network_clustering
 Under different network representation learning (NRL) methods and clustering methods, we cluster the vehicles in the dynamic vehicle network, and compare the clustering performance.
+Paper: Vehicle Trajectory Clustering Based on Dynamic Representation Learning of Internet of Vehicles (https://ieeexplore.ieee.org/document/9115819)
 
 # NRL Methods
 * DynWalks
